@@ -1,6 +1,3 @@
-from asyncio.windows_events import NULL
-
-
 x = int(input())
 xx = x + 1
 add = 1
