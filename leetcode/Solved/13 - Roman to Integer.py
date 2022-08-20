@@ -28,5 +28,5 @@ for i in range(len(a)):
     if(a[i] in valores):
         valor += valores.get(a[i])
     j += 1
-    
+
 print(valor)
