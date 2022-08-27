@@ -1,7 +1,7 @@
 while True:
     zero = 0; um = 0; dois = 0; tres = 0; quatro = 0; cinco = 0; seis = 0; sete = 0; oito = 0; nove = 0
     a, b = map(int, input().split())
-    if(a == 0 and b == 0):
+    if a == b == 0:
         break  
 
     for i in range(b-a+1):
