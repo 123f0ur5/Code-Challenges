@@ -1,18 +1,15 @@
 a = int(input())
-pessoas = []
+
 
 for i in range(a):
     q, p = map(int, input().split())
-    pessoas.clear()
+    pessoas = [x for x in range(1,q+1)]
     contador = 0
-    for x in range(q):
-        pessoas.append(x+1)
-    for y in range(q-1):
-        for z in range(p):
-            if contador >= len(pessoas):
-                contador = 0
-            else:
-                contador += 1
+    print(pessoas)
+    for x in range(q-1):
+        contador += p-1
+        if contador > len(pessoas)-1:
+            contador = contador - contador + p
         print(contador)
         pessoas.pop(contador)
         print(pessoas)

@@ -17,5 +17,4 @@ for i in range(n):
         print(f'{x} dec')
         print(bin(x).replace('0b', '') + ' bin')
     
-    if i < n-1:
-        print()
+    print()
