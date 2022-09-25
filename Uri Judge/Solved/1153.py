@@ -1,8 +1,6 @@
-t = int(input())
-x = 0
+n = int(input())
 
-for i in range(0,1000):
-    print(f'N[{i}] = {x}')
-    x += 1
-    if x == t:
-        x = 0
+for i in range(1,n):
+    n *= i
+
+print(n)

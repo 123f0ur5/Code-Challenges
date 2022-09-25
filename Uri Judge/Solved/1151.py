@@ -1,6 +1,13 @@
-s = 1
+n = int(input())
 
-for i in range(2,101):
-    s += 1 / i
+x = 0
+y = 1
 
-print(f'{s:.2f}')
+for i in range(n):
+    if i == n-1:
+        print(x, end='\n')
+    else:
+        print(x, end=' ')
+    aux = y
+    y = y + x
+    x = aux
