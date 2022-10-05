@@ -1,17 +1,12 @@
-a = int(input())
+n = int(input())
 
-
-for i in range(a):
-    q, p = map(int, input().split())
-    pessoas = [x for x in range(1,q+1)]
-    contador = 0
-    print(pessoas)
-    for x in range(q-1):
-        contador += p-1
-        if contador > len(pessoas)-1:
-            contador = contador - contador + p
-        print(contador)
-        pessoas.pop(contador)
-        print(pessoas)
+for i in range(n):
     
-    print(f"Case {i+1}: {pessoas[0]}")
+    n, m = map(int, input().split())
+    cont = m-1
+    ppl = list(range(1, n+1))
+
+    while len(ppl) != 1:
+        ppl.pop(cont)
+        cont = (cont + (m-1)) % len(ppl)
+    print(ppl)
