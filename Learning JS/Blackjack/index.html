@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blackjack</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div>
+        <center>
+            <h1>Blackjack</h1>
+            <h2 id="winlose"></h2>
+            <h3 id="status"></h3>
+            <h3 id="message"></h3>
+            <h3 id="cards">Cards: </h3>
+            <h3 id="score">Score: 0</h3><br>
+
+            <button onclick="start()">Start Game</button>
+            <button onclick="new_card()" id="new_card">New Card</button>
+            <button onclick="stop()" id="stop" style="display: none;">Stop!</button>
+        </center>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
