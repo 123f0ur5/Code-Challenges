@@ -1,5 +1,4 @@
 import re
-from math import ceil
 
 with open('input.txt', 'r') as inp: #Check if you're in the right repository on terminal
      values = inp.read().split('\n')
