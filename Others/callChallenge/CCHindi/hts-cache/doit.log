@@ -1,0 +1,8 @@
+-qwr2%e2C2%Pns2u1%s%uN101%I0p7DaK0T60R9H0%kf2A25000%f#f -F msie6 -%F "" -%l "en, *" https://www.classcentral.com/ -O1 "C:\Users\Lucas\Desktop\Programming\Code-Challenges\Others\callTeste\CCHindi" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.avif
+File generated automatically on Thu, 16 Mar 2023 15:10:07, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
