@@ -1,0 +1,481 @@
+{
+   "eventos": [
+      {
+         "casa": "Atletico FC Cali (Corners)",
+         "fora": "Cortulua (Corners)",
+         "odds": {
+            "casa": 2.7,
+            "fora": 1.952,
+            "empate": 5.33
+         }
+      },
+      {
+         "casa": "Fluminense FC RJ",
+         "fora": "SC Internacional RS",
+         "odds": {
+            "casa": 3.67,
+            "fora": 2.61,
+            "empate": 2.49
+         }
+      },
+      {
+         "casa": "Tepatitlan FC",
+         "fora": "Cancun Fc",
+         "odds": {
+            "casa": 2.34,
+            "fora": 3.97,
+            "empate": 2.59
+         }
+      },
+      {
+         "casa": "Atletico FC Cali",
+         "fora": "Cortulua",
+         "odds": {
+            "casa": 4.21,
+            "fora": 2.37,
+            "empate": 2.48
+         }
+      },
+      {
+         "casa": "Fluminense FC RJ",
+         "fora": "SC Internacional RS",
+         "odds": {
+            "casa": 3.56,
+            "fora": 2.74,
+            "empate": 2.43
+         }
+      },
+      {
+         "casa": "Tepatitlan FC",
+         "fora": "Cancun Fc",
+         "odds": {
+            "casa": 2.33,
+            "fora": 3.96,
+            "empate": 2.62
+         }
+      },
+      {
+         "casa": "Atletico FC Cali (Corners)",
+         "fora": "Cortulua (Corners)",
+         "odds": {
+            "casa": 2.73,
+            "fora": 1.952,
+            "empate": 5.28
+         }
+      },
+      {
+         "casa": "Atletico FC Cali",
+         "fora": "Cortulua",
+         "odds": {
+            "casa": 4.4,
+            "fora": 2.38,
+            "empate": 2.4
+         }
+      },
+      {
+         "casa": "Nantes",
+         "fora": "Lyon",
+         "odds": {
+            "casa": 3.34,
+            "fora": 2.21,
+            "empate": 3.43
+         }
+      },
+      {
+         "casa": "Torino",
+         "fora": "AS Roma",
+         "odds": {
+            "casa": 3.19,
+            "fora": 2.48,
+            "empate": 3.02
+         }
+      },
+      {
+         "casa": "NEC Nijmegen",
+         "fora": "PSV Eindhoven",
+         "odds": {
+            "casa": 5.16,
+            "fora": 1.671,
+            "empate": 4.09
+         }
+      },
+      {
+         "casa": "Atalanta BC",
+         "fora": "Bologna",
+         "odds": {
+            "casa": 1.637,
+            "fora": 5.44,
+            "empate": 3.85
+         }
+      },
+      {
+         "casa": "Arsenal",
+         "fora": "Leeds United",
+         "odds": {
+            "casa": 1.309,
+            "fora": 9.69,
+            "empate": 5.85
+         }
+      },
+      {
+         "casa": "Napoli",
+         "fora": "AC Milan",
+         "odds": {
+            "casa": 1.781,
+            "fora": 4.9,
+            "empate": 3.71
+         }
+      },
+      {
+         "casa": "Juventus",
+         "fora": "Hellas Verona FC",
+         "odds": {
+            "casa": 1.457,
+            "fora": 8.83,
+            "empate": 4.19
+         }
+      },
+      {
+         "casa": "Manchester City",
+         "fora": "Liverpool",
+         "odds": {
+            "casa": 1.613,
+            "fora": 5.17,
+            "empate": 4.45
+         }
+      },
+      {
+         "casa": "Barcelona",
+         "fora": "Real Madrid",
+         "odds": {
+            "casa": 2.2,
+            "fora": 3.25,
+            "empate": 3.47
+         }
+      },
+      {
+         "casa": "Everton",
+         "fora": "Tottenham Hotspur",
+         "odds": {
+            "casa": 3.47,
+            "fora": 2.16,
+            "empate": 3.41
+         }
+      },
+      {
+         "casa": "Lecce",
+         "fora": "Napoli",
+         "odds": {
+            "casa": 7.25,
+            "fora": 1.472,
+            "empate": 4.1
+         }
+      },
+      {
+         "casa": "Juventus",
+         "fora": "Sporting Lisbon",
+         "odds": {
+            "casa": 1.833,
+            "fora": 4.58,
+            "empate": 3.53
+         }
+      },
+      {
+         "casa": "Lazio",
+         "fora": "Juventus",
+         "odds": {
+            "casa": 2.8,
+            "fora": 2.76,
+            "empate": 3.03
+         }
+      },
+      {
+         "casa": "Manchester United",
+         "fora": "Brentford",
+         "odds": {
+            "casa": 1.629,
+            "fora": 4.84,
+            "empate": 4.27
+         }
+      },
+      {
+         "casa": "Chelsea",
+         "fora": "Liverpool",
+         "odds": {
+            "casa": 2.46,
+            "fora": 2.77,
+            "empate": 3.56
+         }
+      },
+      {
+         "casa": "Chelsea",
+         "fora": "Aston Villa",
+         "odds": {
+            "casa": 1.654,
+            "fora": 5.63,
+            "empate": 3.92
+         }
+      },
+      {
+         "casa": "Cremonese",
+         "fora": "Atalanta BC",
+         "odds": {
+            "casa": 5.08,
+            "fora": 1.69,
+            "empate": 4.02
+         }
+      },
+      {
+         "casa": "Manchester United",
+         "fora": "Sevilla",
+         "odds": {
+            "casa": 1.368,
+            "fora": 8.49,
+            "empate": 4.95
+         }
+      },
+      {
+         "casa": "Paris Saint Germain",
+         "fora": "Lyon",
+         "odds": {
+            "casa": 1.446,
+            "fora": 6.22,
+            "empate": 5.36
+         }
+      },
+      {
+         "casa": "Brighton and Hove Albion",
+         "fora": "Manchester United",
+         "odds": {
+            "casa": 2.68,
+            "fora": 2.54,
+            "empate": 3.48
+         }
+      },
+      {
+         "casa": "Real Madrid",
+         "fora": "Villarreal CF",
+         "odds": {
+            "casa": 1.529,
+            "fora": 5.76,
+            "empate": 4.38
+         }
+      },
+      {
+         "casa": "Feyenoord",
+         "fora": "Ajax",
+         "odds": {
+            "casa": 2.56,
+            "fora": 2.55,
+            "empate": 3.67
+         }
+      },
+      {
+         "casa": "Deportivo Alaves",
+         "fora": "Atletico Madrid",
+         "odds": {
+            "casa": 9.1,
+            "fora": 1.255,
+            "empate": 6.15
+         }
+      },
+      {
+         "casa": "AC Milan",
+         "fora": "Napoli",
+         "odds": {
+            "casa": 3.3,
+            "fora": 2.26,
+            "empate": 3.34
+         }
+      },
+      {
+         "casa": "Spakenburg",
+         "fora": "PSV Eindhoven",
+         "odds": {
+            "casa": 14.29,
+            "fora": 1.157,
+            "empate": 8.14
+         }
+      },
+      {
+         "casa": "Juventus",
+         "fora": "FC Internazionale",
+         "odds": {
+            "casa": 2.59,
+            "fora": 2.7,
+            "empate": 3.43
+         }
+      },
+      {
+         "casa": "Newcastle United",
+         "fora": "Manchester United",
+         "odds": {
+            "casa": 2.38,
+            "fora": 2.96,
+            "empate": 3.64
+         }
+      },
+      {
+         "casa": "Schalke 04",
+         "fora": "Bayer Leverkusen",
+         "odds": {
+            "casa": 4.1,
+            "fora": 1.885,
+            "empate": 3.83
+         }
+      },
+      {
+         "casa": "Marseille",
+         "fora": "Montpellier HSC",
+         "odds": {
+            "casa": 1.435,
+            "fora": 7.4,
+            "empate": 4.85
+         }
+      },
+      {
+         "casa": "Go Ahead Eagles",
+         "fora": "Ajax",
+         "odds": {
+            "casa": 8.28,
+            "fora": 1.357,
+            "empate": 5.54
+         }
+      },
+      {
+         "casa": "Elche CF",
+         "fora": "Barcelona",
+         "odds": {
+            "casa": 8.91,
+            "fora": 1.351,
+            "empate": 5.38
+         }
+      },
+      {
+         "casa": "Real Madrid",
+         "fora": "Chelsea",
+         "odds": {
+            "casa": 1.901,
+            "fora": 4.1,
+            "empate": 3.61
+         }
+      },
+      {
+         "casa": "Salernitana",
+         "fora": "FC Internazionale",
+         "odds": {
+            "casa": 7.22,
+            "fora": 1.394,
+            "empate": 4.87
+         }
+      },
+      {
+         "casa": "Hoffenheim",
+         "fora": "Schalke 04",
+         "odds": {
+            "casa": 1.98,
+            "fora": 3.48,
+            "empate": 3.81
+         }
+      },
+      {
+         "casa": "AS Roma",
+         "fora": "Sampdoria",
+         "odds": {
+            "casa": 1.442,
+            "fora": 8.53,
+            "empate": 4.4
+         }
+      },
+      {
+         "casa": "FC Internazionale",
+         "fora": "Fiorentina",
+         "odds": {
+            "casa": 1.685,
+            "fora": 5.04,
+            "empate": 4.08
+         }
+      },
+      {
+         "casa": "Manchester City",
+         "fora": "Bayern Munich",
+         "odds": {
+            "casa": 1.926,
+            "fora": 3.61,
+            "empate": 3.98
+         }
+      },
+      {
+         "casa": "Real Madrid",
+         "fora": "Real Valladolid CF",
+         "odds": {
+            "casa": 1.214,
+            "fora": 12.91,
+            "empate": 7.06
+         }
+      },
+      {
+         "casa": "AC Monza",
+         "fora": "Lazio",
+         "odds": {
+            "casa": 3.76,
+            "fora": 2.17,
+            "empate": 3.26
+         }
+      },
+      {
+         "casa": "Lyon",
+         "fora": "Chelsea FC Women",
+         "odds": {
+            "casa": 2.27,
+            "fora": 3.17,
+            "empate": 3.24
+         }
+      },
+      {
+         "casa": "Paris Saint Germain",
+         "fora": "VfL Wolfsburg",
+         "odds": {
+            "casa": 2.99,
+            "fora": 2.26,
+            "empate": 3.48
+         }
+      },
+      {
+         "casa": "Manchester City",
+         "fora": "Sheffield United",
+         "odds": {
+            "casa": 1.163,
+            "fora": 12.13,
+            "empate": 8.06
+         }
+      },
+      {
+         "casa": "Rayo Vallecano",
+         "fora": "Atletico Madrid",
+         "odds": {
+            "casa": 3.98,
+            "fora": 2.01,
+            "empate": 3.3
+         }
+      },
+      {
+         "casa": "Atletico Madrid",
+         "fora": "Real Betis",
+         "odds": {
+            "casa": 1.599,
+            "fora": 5.95,
+            "empate": 4.1
+         }
+      },
+      {
+         "casa": "Barcelona",
+         "fora": "Girona",
+         "odds": {
+            "casa": 1.3,
+            "fora": 8.8,
+            "empate": 5.59
+         }
+      }
+   ]
+}
