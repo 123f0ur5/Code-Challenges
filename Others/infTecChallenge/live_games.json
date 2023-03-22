@@ -1,6 +1,6 @@
 [
   {
-    "ageLimit": 0,
+    "ageLimit": 18,
     "altTeaser": false,
     "external": {},
     "featureOrder": -1,
@@ -8,70 +8,70 @@
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1569165207,
+    "id": 1569180736,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": false,
     "isLive": true,
     "isPromoted": false,
     "league": {
-      "ageLimit": 0,
+      "ageLimit": 18,
       "external": {},
       "featureOrder": -1,
-      "group": "Colombia",
-      "id": 200797,
+      "group": "UEFA",
+      "id": 10274,
       "isFeatured": false,
       "isHidden": false,
       "isPromoted": false,
       "isSticky": false,
-      "matchupCount": 1,
-      "matchupCountSE": 1,
-      "name": "Colombia - Primera B Corners",
+      "matchupCount": 2,
+      "matchupCountSE": 0,
+      "name": "UEFA - U19 Euro Championship Qualifiers Corners",
       "sport": {
         "featureOrder": 0,
         "id": 29,
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 530,
-        "matchupCountSE": 470,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
     },
     "liveMode": "live_delay",
     "parent": {
-      "id": 1568690388,
+      "id": 1568768900,
       "participants": [
         {
           "alignment": "home",
-          "name": "Atletico FC Cali",
+          "name": "Czech Republic",
           "score": null
         },
         {
           "alignment": "away",
-          "name": "Cortulua",
+          "name": "Croatia",
           "score": null
         }
       ],
-      "startTime": "2023-03-21T22:30:00+00:00"
+      "startTime": "2023-03-22T11:00:00+00:00"
     },
-    "parentId": 1568690388,
+    "parentId": 1568768900,
     "parlayRestriction": "forbidden",
     "participants": [
       {
         "alignment": "home",
-        "name": "Atletico FC Cali (Corners)",
+        "name": "Czech Republic (Corners)",
         "order": 0,
         "state": {
           "redCards": 0,
-          "score": 5
+          "score": 4
         },
         "stats": [
           {
             "period": 0,
             "redCards": 0,
-            "score": 5
+            "score": 4
           },
           {
             "period": 1
@@ -80,17 +80,17 @@
       },
       {
         "alignment": "away",
-        "name": "Cortulua (Corners)",
+        "name": "Croatia (Corners)",
         "order": 1,
         "state": {
           "redCards": 0,
-          "score": 5
+          "score": 2
         },
         "stats": [
           {
             "period": 0,
             "redCards": 0,
-            "score": 5
+            "score": 2
           },
           {
             "period": 1
@@ -100,31 +100,35 @@
     ],
     "periods": [
       {
-        "cutoffAt": "2023-03-22T02:29:53Z",
+        "cutoffAt": "2023-03-22T15:00:39Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": false,
         "hasTotal": true,
         "period": 0,
-        "status": "closed"
+        "status": "open"
       },
       {
-        "cutoffAt": null,
+        "cutoffAt": "2023-03-22T15:00:39Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
         "period": 1,
-        "status": "settled"
+        "status": "open"
       }
     ],
-    "rotation": 44277,
-    "startTime": "2023-03-21T22:30:00Z",
+    "rotation": 11823,
+    "startTime": "2023-03-22T11:00:00Z",
     "state": {
-      "minutes": 12,
-      "state": 3
+      "minutes": 34,
+      "state": 1
     },
     "status": "started",
-    "totalMarketCount": 3,
+    "totalMarketCount": 6,
     "type": "matchup",
     "units": "Corners",
-    "version": 458829174
+    "version": 458866377
   },
   {
     "ageLimit": 18,
@@ -135,7 +139,7 @@
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1569165220,
+    "id": 1569180472,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": false,
@@ -145,120 +149,120 @@
       "ageLimit": 18,
       "external": {},
       "featureOrder": -1,
-      "group": "Brazil",
-      "id": 210902,
+      "group": "UEFA",
+      "id": 5983,
       "isFeatured": false,
       "isHidden": false,
       "isPromoted": false,
       "isSticky": false,
-      "matchupCount": 4,
+      "matchupCount": 75,
       "matchupCountSE": 0,
-      "name": "Brazil - Brasileiro U20",
+      "name": "UEFA - U19 Euro Championship Qualifiers",
       "sport": {
         "featureOrder": 0,
         "id": 29,
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 530,
-        "matchupCountSE": 470,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
     },
     "liveMode": "live_delay",
     "parent": {
-      "id": 1568699460,
+      "id": 1568768900,
       "participants": [
         {
           "alignment": "home",
-          "name": "Fluminense FC RJ",
+          "name": "Czech Republic",
           "score": null
         },
         {
           "alignment": "away",
-          "name": "SC Internacional RS",
+          "name": "Croatia",
           "score": null
         }
       ],
-      "startTime": "2023-03-21T23:00:00+00:00"
+      "startTime": "2023-03-22T11:00:00+00:00"
     },
-    "parentId": 1568699460,
+    "parentId": 1568768900,
     "parlayRestriction": "forbidden",
     "participants": [
       {
         "alignment": "home",
-        "name": "Fluminense FC RJ",
+        "name": "Czech Republic",
         "order": 0,
         "state": {
           "redCards": 0,
-          "score": 0
+          "score": 1
         },
         "stats": [
           {
-            "period": 0,
-            "redCards": 0,
-            "score": 0
+            "period": 1
           },
           {
-            "period": 1
+            "period": 0,
+            "redCards": 0,
+            "score": 1
           }
         ]
       },
       {
         "alignment": "away",
-        "name": "SC Internacional RS",
+        "name": "Croatia",
         "order": 1,
         "state": {
           "redCards": 0,
-          "score": 0
+          "score": 1
         },
         "stats": [
           {
-            "period": 0,
-            "redCards": 0,
-            "score": 0
+            "period": 1
           },
           {
-            "period": 1
+            "period": 0,
+            "redCards": 0,
+            "score": 1
           }
         ]
       }
     ],
     "periods": [
       {
-        "cutoffAt": "2023-03-22T03:00:08Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-03-21T23:39:49Z",
+        "cutoffAt": "2023-03-22T15:00:39Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": false,
         "hasTotal": true,
         "period": 1,
         "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-22T15:00:39Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
       }
     ],
-    "rotation": 93029,
-    "startTime": "2023-03-21T23:00:00Z",
+    "rotation": 11823,
+    "startTime": "2023-03-22T11:00:00Z",
     "state": {
-      "minutes": 45,
+      "minutes": 34,
       "state": 1
     },
     "status": "started",
-    "totalMarketCount": 5,
+    "totalMarketCount": 38,
     "type": "matchup",
     "units": "Regular",
-    "version": 458831517
+    "version": 458866243
   },
   {
-    "ageLimit": 0,
+    "ageLimit": 18,
     "altTeaser": false,
     "external": {},
     "featureOrder": -1,
@@ -266,70 +270,70 @@
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1569165544,
+    "id": 1569180737,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": false,
     "isLive": true,
     "isPromoted": false,
     "league": {
-      "ageLimit": 0,
+      "ageLimit": 18,
       "external": {},
       "featureOrder": -1,
-      "group": "Mexico",
-      "id": 209758,
+      "group": "UEFA",
+      "id": 5983,
       "isFeatured": false,
       "isHidden": false,
       "isPromoted": false,
       "isSticky": false,
-      "matchupCount": 43,
-      "matchupCountSE": 43,
-      "name": "Mexico - Liga de Expansión MX",
+      "matchupCount": 75,
+      "matchupCountSE": 0,
+      "name": "UEFA - U19 Euro Championship Qualifiers",
       "sport": {
         "featureOrder": 0,
         "id": 29,
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 530,
-        "matchupCountSE": 470,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
     },
     "liveMode": "danger_zone",
     "parent": {
-      "id": 1568705301,
+      "id": 1568768900,
       "participants": [
         {
           "alignment": "home",
-          "name": "Tepatitlan FC",
+          "name": "Czech Republic",
           "score": null
         },
         {
           "alignment": "away",
-          "name": "Cancun Fc",
+          "name": "Croatia",
           "score": null
         }
       ],
-      "startTime": "2023-03-21T23:05:00+00:00"
+      "startTime": "2023-03-22T11:00:00+00:00"
     },
-    "parentId": 1568705301,
+    "parentId": 1568768900,
     "parlayRestriction": "forbidden",
     "participants": [
       {
         "alignment": "home",
-        "name": "Tepatitlan FC",
+        "name": "Czech Republic",
         "order": 0,
         "state": {
           "redCards": 0,
-          "score": 0
+          "score": 1
         },
         "stats": [
           {
             "period": 0,
             "redCards": 0,
-            "score": 0
+            "score": 1
           },
           {
             "period": 1
@@ -338,17 +342,17 @@
       },
       {
         "alignment": "away",
-        "name": "Cancun Fc",
+        "name": "Croatia",
         "order": 1,
         "state": {
           "redCards": 0,
-          "score": 0
+          "score": 1
         },
         "stats": [
           {
             "period": 0,
             "redCards": 0,
-            "score": 0
+            "score": 1
           },
           {
             "period": 1
@@ -358,7 +362,7 @@
     ],
     "periods": [
       {
-        "cutoffAt": "2023-03-22T03:05:11Z",
+        "cutoffAt": "2023-03-22T15:00:39Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -367,7 +371,7 @@
         "status": "open"
       },
       {
-        "cutoffAt": "2023-03-22T03:05:11Z",
+        "cutoffAt": "2023-03-22T15:00:39Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": false,
@@ -376,20 +380,20 @@
         "status": "open"
       }
     ],
-    "rotation": 77925,
-    "startTime": "2023-03-21T23:05:00Z",
+    "rotation": 11823,
+    "startTime": "2023-03-22T11:00:00Z",
     "state": {
-      "minutes": 40,
+      "minutes": 34,
       "state": 1
     },
     "status": "started",
     "totalMarketCount": 8,
     "type": "matchup",
     "units": "Regular",
-    "version": 458830210
+    "version": 458866243
   },
   {
-    "ageLimit": 0,
+    "ageLimit": -2,
     "altTeaser": false,
     "external": {},
     "featureOrder": -1,
@@ -397,70 +401,70 @@
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1569164943,
+    "id": 1569208223,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": false,
     "isLive": true,
     "isPromoted": false,
     "league": {
-      "ageLimit": 0,
+      "ageLimit": -2,
       "external": {},
       "featureOrder": -1,
-      "group": "Colombia",
-      "id": 10921,
+      "group": "Australia",
+      "id": 10984,
       "isFeatured": false,
       "isHidden": false,
       "isPromoted": false,
       "isSticky": false,
-      "matchupCount": 23,
-      "matchupCountSE": 23,
-      "name": "Colombia - Primera B",
+      "matchupCount": 2,
+      "matchupCountSE": 0,
+      "name": "Australia - FFA Cup Qualifiers",
       "sport": {
         "featureOrder": 0,
         "id": 29,
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 530,
-        "matchupCountSE": 470,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
     },
     "liveMode": "live_delay",
     "parent": {
-      "id": 1568690388,
+      "id": 1569208194,
       "participants": [
         {
           "alignment": "home",
-          "name": "Atletico FC Cali",
+          "name": "Magic United FC",
           "score": null
         },
         {
           "alignment": "away",
-          "name": "Cortulua",
+          "name": "Sunshine Coast FC",
           "score": null
         }
       ],
-      "startTime": "2023-03-21T22:30:00+00:00"
+      "startTime": "2023-03-22T10:00:00+00:00"
     },
-    "parentId": 1568690388,
+    "parentId": 1569208194,
     "parlayRestriction": "forbidden",
     "participants": [
       {
         "alignment": "home",
-        "name": "Atletico FC Cali",
+        "name": "Magic United FC",
         "order": 0,
         "state": {
           "redCards": 0,
-          "score": 1
+          "score": 2
         },
         "stats": [
           {
             "period": 0,
             "redCards": 0,
-            "score": 1
+            "score": 2
           },
           {
             "period": 1
@@ -469,17 +473,17 @@
       },
       {
         "alignment": "away",
-        "name": "Cortulua",
+        "name": "Sunshine Coast FC",
         "order": 1,
         "state": {
           "redCards": 0,
-          "score": 1
+          "score": 0
         },
         "stats": [
           {
             "period": 0,
             "redCards": 0,
-            "score": 1
+            "score": 0
           },
           {
             "period": 1
@@ -489,13 +493,13 @@
     ],
     "periods": [
       {
-        "cutoffAt": "2023-03-22T02:29:53Z",
+        "cutoffAt": "2023-03-22T14:04:34Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
         "hasTotal": true,
         "period": 0,
-        "status": "closed"
+        "status": "open"
       },
       {
         "cutoffAt": null,
@@ -503,17 +507,148 @@
         "status": "settled"
       }
     ],
-    "rotation": 44277,
-    "startTime": "2023-03-21T22:30:00Z",
+    "rotation": 37497,
+    "startTime": "2023-03-22T10:00:00Z",
     "state": {
-      "minutes": 12,
+      "minutes": 29,
       "state": 3
     },
     "status": "started",
-    "totalMarketCount": 23,
+    "totalMarketCount": 5,
     "type": "matchup",
     "units": "Regular",
-    "version": 458830171
+    "version": 458865902
+  },
+  {
+    "ageLimit": -2,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569217494,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": true,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": -2,
+      "external": {},
+      "featureOrder": -1,
+      "group": "World",
+      "id": 1863,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 5,
+      "matchupCountSE": 0,
+      "name": "Club Friendlies",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": "danger_zone",
+    "parent": {
+      "id": 1569217203,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "Heerenveen",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Vitesse",
+          "score": null
+        }
+      ],
+      "startTime": "2023-03-22T11:00:00+00:00"
+    },
+    "parentId": 1569217203,
+    "parlayRestriction": "forbidden",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Heerenveen",
+        "order": 0,
+        "state": {
+          "redCards": 0,
+          "score": 0
+        },
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Vitesse",
+        "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 0
+        },
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 0
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T14:58:47Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-22T14:58:47Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 30851,
+    "startTime": "2023-03-22T11:00:00Z",
+    "state": {
+      "minutes": 35,
+      "state": 1
+    },
+    "status": "pending",
+    "totalMarketCount": 8,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458863163
   },
   {
     "ageLimit": 18,
@@ -524,7 +659,7 @@
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1569165219,
+    "id": 1569179100,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": false,
@@ -534,60 +669,60 @@
       "ageLimit": 18,
       "external": {},
       "featureOrder": -1,
-      "group": "Brazil",
-      "id": 210902,
+      "group": "Czech Republic",
+      "id": 10895,
       "isFeatured": false,
       "isHidden": false,
       "isPromoted": false,
       "isSticky": false,
-      "matchupCount": 4,
+      "matchupCount": 1,
       "matchupCountSE": 0,
-      "name": "Brazil - Brasileiro U20",
+      "name": "Czech Republic - U19 League",
       "sport": {
         "featureOrder": 0,
         "id": 29,
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 530,
-        "matchupCountSE": 470,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
     },
     "liveMode": "danger_zone",
     "parent": {
-      "id": 1568699460,
+      "id": 1568903492,
       "participants": [
         {
           "alignment": "home",
-          "name": "Fluminense FC RJ",
+          "name": "FC Fastav Zlin",
           "score": null
         },
         {
           "alignment": "away",
-          "name": "SC Internacional RS",
+          "name": "FC Zbrojovka Brno",
           "score": null
         }
       ],
-      "startTime": "2023-03-21T23:00:00+00:00"
+      "startTime": "2023-03-22T10:00:00+00:00"
     },
-    "parentId": 1568699460,
+    "parentId": 1568903492,
     "parlayRestriction": "forbidden",
     "participants": [
       {
         "alignment": "home",
-        "name": "Fluminense FC RJ",
+        "name": "FC Fastav Zlin",
         "order": 0,
         "state": {
           "redCards": 0,
-          "score": 0
+          "score": 2
         },
         "stats": [
           {
             "period": 0,
             "redCards": 0,
-            "score": 0
+            "score": 2
           },
           {
             "period": 1
@@ -596,17 +731,17 @@
       },
       {
         "alignment": "away",
-        "name": "SC Internacional RS",
+        "name": "FC Zbrojovka Brno",
         "order": 1,
         "state": {
           "redCards": 0,
-          "score": 0
+          "score": 1
         },
         "stats": [
           {
             "period": 0,
             "redCards": 0,
-            "score": 0
+            "score": 1
           },
           {
             "period": 1
@@ -616,7 +751,7 @@
     ],
     "periods": [
       {
-        "cutoffAt": "2023-03-22T03:00:08Z",
+        "cutoffAt": "2023-03-22T14:02:11Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -625,29 +760,29 @@
         "status": "open"
       },
       {
-        "cutoffAt": "2023-03-21T23:39:49Z",
+        "cutoffAt": "2023-03-22T10:42:13Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": false,
         "hasTotal": true,
         "period": 1,
-        "status": "open"
+        "status": "closed"
       }
     ],
-    "rotation": 93029,
-    "startTime": "2023-03-21T23:00:00Z",
+    "rotation": 44653,
+    "startTime": "2023-03-22T10:00:00Z",
     "state": {
-      "minutes": 45,
-      "state": 1
+      "minutes": 28,
+      "state": 3
     },
     "status": "started",
     "totalMarketCount": 5,
     "type": "matchup",
     "units": "Regular",
-    "version": 458829984
+    "version": 458865269
   },
   {
-    "ageLimit": 0,
+    "ageLimit": 18,
     "altTeaser": false,
     "external": {},
     "featureOrder": -1,
@@ -655,60 +790,60 @@
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1569165279,
+    "id": 1569180471,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": false,
     "isLive": true,
     "isPromoted": false,
     "league": {
-      "ageLimit": 0,
+      "ageLimit": 18,
       "external": {},
       "featureOrder": -1,
-      "group": "Mexico",
-      "id": 209758,
+      "group": "UEFA",
+      "id": 5983,
       "isFeatured": false,
       "isHidden": false,
       "isPromoted": false,
       "isSticky": false,
-      "matchupCount": 43,
-      "matchupCountSE": 43,
-      "name": "Mexico - Liga de Expansión MX",
+      "matchupCount": 75,
+      "matchupCountSE": 0,
+      "name": "UEFA - U19 Euro Championship Qualifiers",
       "sport": {
         "featureOrder": 0,
         "id": 29,
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 530,
-        "matchupCountSE": 470,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
     },
-    "liveMode": "live_delay",
+    "liveMode": "danger_zone",
     "parent": {
-      "id": 1568705301,
+      "id": 1568705336,
       "participants": [
         {
           "alignment": "home",
-          "name": "Tepatitlan FC",
+          "name": "Germany",
           "score": null
         },
         {
           "alignment": "away",
-          "name": "Cancun Fc",
+          "name": "Italy",
           "score": null
         }
       ],
-      "startTime": "2023-03-21T23:05:00+00:00"
+      "startTime": "2023-03-22T11:00:00+00:00"
     },
-    "parentId": 1568705301,
+    "parentId": 1568705336,
     "parlayRestriction": "forbidden",
     "participants": [
       {
         "alignment": "home",
-        "name": "Tepatitlan FC",
+        "name": "Germany",
         "order": 0,
         "state": {
           "redCards": 0,
@@ -727,8 +862,120 @@
       },
       {
         "alignment": "away",
-        "name": "Cancun Fc",
+        "name": "Italy",
         "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 2
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 2
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T15:03:31Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-22T15:03:31Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 11787,
+    "startTime": "2023-03-22T11:00:00Z",
+    "state": {
+      "minutes": 31,
+      "state": 1
+    },
+    "status": "started",
+    "totalMarketCount": 7,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458865783
+  },
+  {
+    "ageLimit": 18,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569180469,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": true,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 18,
+      "external": {},
+      "featureOrder": -1,
+      "group": "UEFA",
+      "id": 10274,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 2,
+      "matchupCountSE": 0,
+      "name": "UEFA - U19 Euro Championship Qualifiers Corners",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": "danger_zone",
+    "parent": {
+      "id": 1568705336,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "Germany",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Italy",
+          "score": null
+        }
+      ],
+      "startTime": "2023-03-22T11:00:00+00:00"
+    },
+    "parentId": 1568705336,
+    "parlayRestriction": "forbidden",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Germany (Corners)",
+        "order": 0,
         "state": {
           "redCards": 0,
           "score": 0
@@ -743,20 +990,39 @@
             "period": 1
           }
         ]
+      },
+      {
+        "alignment": "away",
+        "name": "Italy (Corners)",
+        "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 1
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 1
+          },
+          {
+            "period": 1
+          }
+        ]
       }
     ],
     "periods": [
       {
-        "cutoffAt": "2023-03-22T03:05:11Z",
+        "cutoffAt": "2023-03-22T15:03:32Z",
         "hasMoneyline": true,
         "hasSpread": true,
-        "hasTeamTotal": true,
+        "hasTeamTotal": false,
         "hasTotal": true,
         "period": 0,
         "status": "open"
       },
       {
-        "cutoffAt": "2023-03-22T03:05:11Z",
+        "cutoffAt": "2023-03-22T15:03:32Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": false,
@@ -765,17 +1031,17 @@
         "status": "open"
       }
     ],
-    "rotation": 77925,
-    "startTime": "2023-03-21T23:05:00Z",
+    "rotation": 11787,
+    "startTime": "2023-03-22T11:00:00Z",
     "state": {
-      "minutes": 40,
+      "minutes": 31,
       "state": 1
     },
     "status": "started",
-    "totalMarketCount": 40,
+    "totalMarketCount": 6,
     "type": "matchup",
-    "units": "Regular",
-    "version": 458832015
+    "units": "Corners",
+    "version": 458865783
   },
   {
     "ageLimit": 0,
@@ -786,7 +1052,7 @@
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1569165206,
+    "id": 1569168770,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": false,
@@ -797,59 +1063,44 @@
       "external": {},
       "featureOrder": -1,
       "group": "Colombia",
-      "id": 200797,
+      "id": 72425,
       "isFeatured": false,
       "isHidden": false,
       "isPromoted": false,
       "isSticky": false,
       "matchupCount": 1,
       "matchupCountSE": 1,
-      "name": "Colombia - Primera B Corners",
+      "name": "Colombia - Primera A Corners",
       "sport": {
         "featureOrder": 0,
         "id": 29,
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 530,
-        "matchupCountSE": 470,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
     },
     "liveMode": "danger_zone",
-    "parent": {
-      "id": 1568690388,
-      "participants": [
-        {
-          "alignment": "home",
-          "name": "Atletico FC Cali",
-          "score": null
-        },
-        {
-          "alignment": "away",
-          "name": "Cortulua",
-          "score": null
-        }
-      ],
-      "startTime": "2023-03-21T22:30:00+00:00"
-    },
-    "parentId": 1568690388,
+    "parent": null,
+    "parentId": 1568768966,
     "parlayRestriction": "forbidden",
     "participants": [
       {
         "alignment": "home",
-        "name": "Atletico FC Cali (Corners)",
+        "name": "Independiente Santa Fe (Corners)",
         "order": 0,
         "state": {
           "redCards": 0,
-          "score": 5
+          "score": 0
         },
         "stats": [
           {
             "period": 0,
             "redCards": 0,
-            "score": 5
+            "score": 0
           },
           {
             "period": 1
@@ -858,17 +1109,17 @@
       },
       {
         "alignment": "away",
-        "name": "Cortulua (Corners)",
+        "name": "AD Cali (Corners)",
         "order": 1,
         "state": {
           "redCards": 0,
-          "score": 5
+          "score": 0
         },
         "stats": [
           {
             "period": 0,
             "redCards": 0,
-            "score": 5
+            "score": 0
           },
           {
             "period": 1
@@ -878,7 +1129,7 @@
     ],
     "periods": [
       {
-        "cutoffAt": "2023-03-22T02:29:53Z",
+        "cutoffAt": "2023-03-22T05:00:38Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": false,
@@ -887,7 +1138,7 @@
         "status": "closed"
       },
       {
-        "cutoffAt": "2023-03-21T23:03:59Z",
+        "cutoffAt": "2023-03-22T05:00:38Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": false,
@@ -896,17 +1147,1208 @@
         "status": "closed"
       }
     ],
-    "rotation": 44277,
-    "startTime": "2023-03-21T22:30:00Z",
+    "rotation": 3387,
+    "startTime": "2023-03-22T01:00:00Z",
+    "state": {},
+    "status": "started",
+    "totalMarketCount": 6,
+    "type": "matchup",
+    "units": "Corners",
+    "version": 458838084
+  },
+  {
+    "ageLimit": 18,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569180735,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": true,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 18,
+      "external": {},
+      "featureOrder": -1,
+      "group": "UEFA",
+      "id": 10274,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 2,
+      "matchupCountSE": 0,
+      "name": "UEFA - U19 Euro Championship Qualifiers Corners",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": "danger_zone",
+    "parent": {
+      "id": 1568768900,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "Czech Republic",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Croatia",
+          "score": null
+        }
+      ],
+      "startTime": "2023-03-22T11:00:00+00:00"
+    },
+    "parentId": 1568768900,
+    "parlayRestriction": "forbidden",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Czech Republic (Corners)",
+        "order": 0,
+        "state": {
+          "redCards": 0,
+          "score": 4
+        },
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 4
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Croatia (Corners)",
+        "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 2
+        },
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 2
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T15:00:39Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-22T15:00:39Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 11823,
+    "startTime": "2023-03-22T11:00:00Z",
     "state": {
-      "minutes": 12,
+      "minutes": 34,
+      "state": 1
+    },
+    "status": "started",
+    "totalMarketCount": 6,
+    "type": "matchup",
+    "units": "Corners",
+    "version": 458866243
+  },
+  {
+    "ageLimit": 18,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569180201,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": true,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 18,
+      "external": {},
+      "featureOrder": -1,
+      "group": "UEFA",
+      "id": 5983,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 75,
+      "matchupCountSE": 0,
+      "name": "UEFA - U19 Euro Championship Qualifiers",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": "live_delay",
+    "parent": {
+      "id": 1568705336,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "Germany",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Italy",
+          "score": null
+        }
+      ],
+      "startTime": "2023-03-22T11:00:00+00:00"
+    },
+    "parentId": 1568705336,
+    "parlayRestriction": "forbidden",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Germany",
+        "order": 0,
+        "state": {
+          "redCards": 0,
+          "score": 0
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Italy",
+        "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 2
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 2
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T15:03:32Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-22T15:03:32Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 11787,
+    "startTime": "2023-03-22T11:00:00Z",
+    "state": {
+      "minutes": 31,
+      "state": 1
+    },
+    "status": "started",
+    "totalMarketCount": 39,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458865783
+  },
+  {
+    "ageLimit": -2,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569217206,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": true,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": -2,
+      "external": {},
+      "featureOrder": -1,
+      "group": "Poland",
+      "id": 201398,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 2,
+      "matchupCountSE": 0,
+      "name": "Poland - Cup Women",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": "danger_zone",
+    "parent": {
+      "id": 1569217173,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "KS Pogon Tczew",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Pogon Szczecin",
+          "score": null
+        }
+      ],
+      "startTime": "2023-03-22T11:00:00+00:00"
+    },
+    "parentId": 1569217173,
+    "parlayRestriction": "forbidden",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "KS Pogon Tczew",
+        "order": 0,
+        "state": {
+          "redCards": 0,
+          "score": 1
+        },
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Pogon Szczecin",
+        "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 2
+        },
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 2
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T15:00:52Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-22T15:00:52Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 87021,
+    "startTime": "2023-03-22T11:00:00Z",
+    "state": {
+      "minutes": 33,
+      "state": 1
+    },
+    "status": "started",
+    "totalMarketCount": 8,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458865038
+  },
+  {
+    "ageLimit": -2,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569208216,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": true,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": -2,
+      "external": {},
+      "featureOrder": -1,
+      "group": "Australia",
+      "id": 10984,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 2,
+      "matchupCountSE": 0,
+      "name": "Australia - FFA Cup Qualifiers",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": "danger_zone",
+    "parent": null,
+    "parentId": 1569208182,
+    "parlayRestriction": "forbidden",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Logan Lightning FC",
+        "order": 0,
+        "state": {
+          "redCards": 0,
+          "score": 1
+        },
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 1
+          },
+          {
+            "period": 8
+          },
+          {
+            "period": 3,
+            "redCards": 0,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Albany Creek",
+        "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 1
+        },
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 1
+          },
+          {
+            "period": 8
+          },
+          {
+            "period": 3,
+            "redCards": 0,
+            "score": 0
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T10:16:36Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 1,
+        "status": "closed"
+      },
+      {
+        "cutoffAt": "2023-03-22T11:20:30Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "closed"
+      },
+      {
+        "cutoffAt": "2023-03-22T13:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": false,
+        "hasTeamTotal": false,
+        "hasTotal": false,
+        "period": 8,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-22T13:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 3,
+        "status": "open"
+      }
+    ],
+    "rotation": 37476,
+    "startTime": "2023-03-22T09:30:00Z",
+    "state": {
+      "minutes": 0,
+      "state": 9
+    },
+    "status": "started",
+    "totalMarketCount": 4,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458865853
+  },
+  {
+    "ageLimit": -2,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569217207,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": true,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": -2,
+      "external": {},
+      "featureOrder": -1,
+      "group": "Poland",
+      "id": 201398,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 2,
+      "matchupCountSE": 0,
+      "name": "Poland - Cup Women",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": "live_delay",
+    "parent": {
+      "id": 1569217173,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "KS Pogon Tczew",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Pogon Szczecin",
+          "score": null
+        }
+      ],
+      "startTime": "2023-03-22T11:00:00+00:00"
+    },
+    "parentId": 1569217173,
+    "parlayRestriction": "forbidden",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "KS Pogon Tczew",
+        "order": 0,
+        "state": {
+          "redCards": 0,
+          "score": 1
+        },
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Pogon Szczecin",
+        "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 2
+        },
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 2
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T15:00:52Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 1,
+        "status": "closed"
+      },
+      {
+        "cutoffAt": "2023-03-22T15:00:52Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "closed"
+      }
+    ],
+    "rotation": 87021,
+    "startTime": "2023-03-22T11:00:00Z",
+    "state": {
+      "minutes": 33,
+      "state": 1
+    },
+    "status": "started",
+    "totalMarketCount": 8,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458866490
+  },
+  {
+    "ageLimit": -2,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569217495,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": true,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": -2,
+      "external": {},
+      "featureOrder": -1,
+      "group": "World",
+      "id": 1863,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 5,
+      "matchupCountSE": 0,
+      "name": "Club Friendlies",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": "live_delay",
+    "parent": {
+      "id": 1569217203,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "Heerenveen",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Vitesse",
+          "score": null
+        }
+      ],
+      "startTime": "2023-03-22T11:00:00+00:00"
+    },
+    "parentId": 1569217203,
+    "parlayRestriction": "forbidden",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Heerenveen",
+        "order": 0,
+        "state": {
+          "redCards": 0,
+          "score": 0
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Vitesse",
+        "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 0
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T14:58:47Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-22T14:58:47Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 30851,
+    "startTime": "2023-03-22T11:00:00Z",
+    "state": {
+      "minutes": 35,
+      "state": 1
+    },
+    "status": "started",
+    "totalMarketCount": 8,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458864815
+  },
+  {
+    "ageLimit": 18,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569179101,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": true,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 18,
+      "external": {},
+      "featureOrder": -1,
+      "group": "Czech Republic",
+      "id": 10895,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 1,
+      "matchupCountSE": 0,
+      "name": "Czech Republic - U19 League",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": "live_delay",
+    "parent": {
+      "id": 1568903492,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "FC Fastav Zlin",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "FC Zbrojovka Brno",
+          "score": null
+        }
+      ],
+      "startTime": "2023-03-22T10:00:00+00:00"
+    },
+    "parentId": 1568903492,
+    "parlayRestriction": "forbidden",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "FC Fastav Zlin",
+        "order": 0,
+        "state": {
+          "redCards": 0,
+          "score": 2
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 2
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "FC Zbrojovka Brno",
+        "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 1
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 1
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T14:02:11Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": null,
+        "period": 1,
+        "status": "settled"
+      }
+    ],
+    "rotation": 44653,
+    "startTime": "2023-03-22T10:00:00Z",
+    "state": {
+      "minutes": 28,
       "state": 3
     },
     "status": "started",
-    "totalMarketCount": 3,
+    "totalMarketCount": 5,
     "type": "matchup",
-    "units": "Corners",
-    "version": 458829174
+    "units": "Regular",
+    "version": 458866176
+  },
+  {
+    "ageLimit": -2,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569208222,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": true,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": -2,
+      "external": {},
+      "featureOrder": -1,
+      "group": "Australia",
+      "id": 10984,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 2,
+      "matchupCountSE": 0,
+      "name": "Australia - FFA Cup Qualifiers",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": "danger_zone",
+    "parent": {
+      "id": 1569208194,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "Magic United FC",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Sunshine Coast FC",
+          "score": null
+        }
+      ],
+      "startTime": "2023-03-22T10:00:00+00:00"
+    },
+    "parentId": 1569208194,
+    "parlayRestriction": "forbidden",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Magic United FC",
+        "order": 0,
+        "state": {
+          "redCards": 0,
+          "score": 2
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 2
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Sunshine Coast FC",
+        "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 0
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T14:04:34Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-22T10:44:41Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 1,
+        "status": "closed"
+      }
+    ],
+    "rotation": 37497,
+    "startTime": "2023-03-22T10:00:00Z",
+    "state": {
+      "minutes": 29,
+      "state": 3
+    },
+    "status": "started",
+    "totalMarketCount": 5,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458863907
+  },
+  {
+    "ageLimit": 18,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569180200,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": true,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 18,
+      "external": {},
+      "featureOrder": -1,
+      "group": "Portugal",
+      "id": 202276,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 3,
+      "matchupCountSE": 0,
+      "name": "Portugal - U23 Championship",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": "live_delay",
+    "parent": {
+      "id": 1568768907,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "Maritimo",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Portimonense",
+          "score": null
+        }
+      ],
+      "startTime": "2023-03-22T11:00:00+00:00"
+    },
+    "parentId": 1568768907,
+    "parlayRestriction": "forbidden",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Maritimo",
+        "order": 0,
+        "state": {
+          "redCards": 0,
+          "score": 0
+        },
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Portimonense",
+        "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 0
+        },
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 0
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T15:01:36Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-22T15:01:36Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 98351,
+    "startTime": "2023-03-22T11:00:00Z",
+    "state": {
+      "minutes": 33,
+      "state": 1
+    },
+    "status": "started",
+    "totalMarketCount": 8,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458866243
   },
   {
     "ageLimit": 0,
@@ -917,7 +2359,7 @@
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1569165208,
+    "id": 1569168771,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": false,
@@ -928,59 +2370,44 @@
       "external": {},
       "featureOrder": -1,
       "group": "Colombia",
-      "id": 10921,
+      "id": 72425,
       "isFeatured": false,
       "isHidden": false,
       "isPromoted": false,
       "isSticky": false,
-      "matchupCount": 23,
-      "matchupCountSE": 23,
-      "name": "Colombia - Primera B",
+      "matchupCount": 1,
+      "matchupCountSE": 1,
+      "name": "Colombia - Primera A Corners",
       "sport": {
         "featureOrder": 0,
         "id": 29,
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 530,
-        "matchupCountSE": 470,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
     },
-    "liveMode": "danger_zone",
-    "parent": {
-      "id": 1568690388,
-      "participants": [
-        {
-          "alignment": "home",
-          "name": "Atletico FC Cali",
-          "score": null
-        },
-        {
-          "alignment": "away",
-          "name": "Cortulua",
-          "score": null
-        }
-      ],
-      "startTime": "2023-03-21T22:30:00+00:00"
-    },
-    "parentId": 1568690388,
+    "liveMode": "live_delay",
+    "parent": null,
+    "parentId": 1568768966,
     "parlayRestriction": "forbidden",
     "participants": [
       {
         "alignment": "home",
-        "name": "Atletico FC Cali",
+        "name": "Independiente Santa Fe (Corners)",
         "order": 0,
         "state": {
           "redCards": 0,
-          "score": 1
+          "score": 0
         },
         "stats": [
           {
             "period": 0,
             "redCards": 0,
-            "score": 1
+            "score": 0
           },
           {
             "period": 1
@@ -989,7 +2416,266 @@
       },
       {
         "alignment": "away",
-        "name": "Cortulua",
+        "name": "AD Cali (Corners)",
+        "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 0
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T05:00:38Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 0,
+        "status": "closed"
+      },
+      {
+        "cutoffAt": "2023-03-22T05:00:38Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 1,
+        "status": "closed"
+      }
+    ],
+    "rotation": 3387,
+    "startTime": "2023-03-22T01:00:00Z",
+    "state": {},
+    "status": "started",
+    "totalMarketCount": 6,
+    "type": "matchup",
+    "units": "Corners",
+    "version": 458838084
+  },
+  {
+    "ageLimit": 18,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569180199,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": true,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 18,
+      "external": {},
+      "featureOrder": -1,
+      "group": "Portugal",
+      "id": 202276,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 3,
+      "matchupCountSE": 0,
+      "name": "Portugal - U23 Championship",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": "danger_zone",
+    "parent": {
+      "id": 1568768907,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "Maritimo",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Portimonense",
+          "score": null
+        }
+      ],
+      "startTime": "2023-03-22T11:00:00+00:00"
+    },
+    "parentId": 1568768907,
+    "parlayRestriction": "forbidden",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Maritimo",
+        "order": 0,
+        "state": {
+          "redCards": 0,
+          "score": 0
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Portimonense",
+        "order": 1,
+        "state": {
+          "redCards": 0,
+          "score": 0
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T15:01:36Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-22T15:01:36Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": false,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 98351,
+    "startTime": "2023-03-22T11:00:00Z",
+    "state": {
+      "minutes": 33,
+      "state": 1
+    },
+    "status": "started",
+    "totalMarketCount": 8,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458863339
+  },
+  {
+    "ageLimit": 18,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569180470,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": true,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 18,
+      "external": {},
+      "featureOrder": -1,
+      "group": "UEFA",
+      "id": 10274,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 2,
+      "matchupCountSE": 0,
+      "name": "UEFA - U19 Euro Championship Qualifiers Corners",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 592,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": "live_delay",
+    "parent": {
+      "id": 1568705336,
+      "participants": [
+        {
+          "alignment": "home",
+          "name": "Germany",
+          "score": null
+        },
+        {
+          "alignment": "away",
+          "name": "Italy",
+          "score": null
+        }
+      ],
+      "startTime": "2023-03-22T11:00:00+00:00"
+    },
+    "parentId": 1568705336,
+    "parlayRestriction": "forbidden",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Germany (Corners)",
+        "order": 0,
+        "state": {
+          "redCards": 0,
+          "score": 0
+        },
+        "stats": [
+          {
+            "period": 0,
+            "redCards": 0,
+            "score": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Italy (Corners)",
         "order": 1,
         "state": {
           "redCards": 0,
@@ -1009,34 +2695,34 @@
     ],
     "periods": [
       {
-        "cutoffAt": "2023-03-22T02:29:53Z",
+        "cutoffAt": "2023-03-22T15:03:32Z",
         "hasMoneyline": true,
         "hasSpread": true,
-        "hasTeamTotal": true,
+        "hasTeamTotal": false,
         "hasTotal": true,
         "period": 0,
         "status": "open"
       },
       {
-        "cutoffAt": "2023-03-21T23:10:18Z",
+        "cutoffAt": "2023-03-22T15:03:32Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": false,
         "hasTotal": true,
         "period": 1,
-        "status": "closed"
+        "status": "open"
       }
     ],
-    "rotation": 44277,
-    "startTime": "2023-03-21T22:30:00Z",
+    "rotation": 11787,
+    "startTime": "2023-03-22T11:00:00Z",
     "state": {
-      "minutes": 12,
-      "state": 3
+      "minutes": 31,
+      "state": 1
     },
     "status": "started",
-    "totalMarketCount": 5,
+    "totalMarketCount": 6,
     "type": "matchup",
-    "units": "Regular",
-    "version": 458830171
+    "units": "Corners",
+    "version": 458865783
   }
 ]

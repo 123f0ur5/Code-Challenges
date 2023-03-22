@@ -3,119 +3,14 @@
     "ageLimit": 0,
     "altTeaser": false,
     "external": {
-      "touchlineId": -58008
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1568184368,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": -15
-      },
-      "featureOrder": -1,
-      "group": "France",
-      "id": 2032,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 3,
-      "matchupCountSE": 3,
-      "name": "France - Cup",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Nantes",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Lyon",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-05T19:10:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-05T19:10:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 33751,
-    "startTime": "2023-04-05T19:10:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 456480990
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 731477
+      "touchlineId": 731466
     },
     "featureOrder": -1,
     "hasAltSpread": true,
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1569145090,
+    "id": 1568575474,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": true,
@@ -142,8 +37,8 @@
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -155,7 +50,7 @@
     "participants": [
       {
         "alignment": "home",
-        "name": "Torino",
+        "name": "Napoli",
         "order": 0,
         "stats": [
           {
@@ -168,7 +63,7 @@
       },
       {
         "alignment": "away",
-        "name": "AS Roma",
+        "name": "AC Milan",
         "order": 1,
         "stats": [
           {
@@ -182,7 +77,7 @@
     ],
     "periods": [
       {
-        "cutoffAt": "2023-04-08T16:30:00Z",
+        "cutoffAt": "2023-04-02T18:45:00Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -191,7 +86,7 @@
         "status": "open"
       },
       {
-        "cutoffAt": "2023-04-08T16:30:00Z",
+        "cutoffAt": "2023-04-02T18:45:00Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -200,14 +95,1884 @@
         "status": "open"
       }
     ],
-    "rotation": 5863,
-    "startTime": "2023-04-08T16:30:00Z",
+    "rotation": 5871,
+    "startTime": "2023-04-02T18:45:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458789958
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569109619,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {},
+      "featureOrder": -1,
+      "group": "Netherlands",
+      "id": 1930,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 2,
+      "matchupCountSE": 2,
+      "name": "Netherlands - Cup",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Spakenburg",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "PSV Eindhoven",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-04T18:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-04T18:00:00Z",
+        "hasMoneyline": false,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 34651,
+    "startTime": "2023-04-04T18:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 8,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458473250
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 732566
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569145106,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 68
+      },
+      "featureOrder": 3,
+      "group": "Spain",
+      "id": 2196,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 21,
+      "matchupCountSE": 21,
+      "name": "Spain - La Liga",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Real Madrid",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Villarreal CF",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-08T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-08T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 3733,
+    "startTime": "2023-04-08T19:00:00Z",
     "state": {},
     "status": "pending",
     "totalMarketCount": 10,
     "type": "matchup",
     "units": "Regular",
     "version": 458725251
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 732558
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568575467,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 68
+      },
+      "featureOrder": 3,
+      "group": "Spain",
+      "id": 2196,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 21,
+      "matchupCountSE": 21,
+      "name": "Spain - La Liga",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Real Madrid",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Real Valladolid CF",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-02T14:15:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-02T14:15:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 3721,
+    "startTime": "2023-04-02T14:15:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458626425
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568907003,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": -35
+      },
+      "featureOrder": 3,
+      "group": "UEFA",
+      "id": 2630,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 5,
+      "matchupCountSE": 5,
+      "name": "UEFA - Europa League",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Manchester United",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Sevilla",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-13T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-13T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 11201,
+    "startTime": "2023-04-13T19:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 44,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 457964194
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569109621,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {},
+      "featureOrder": -1,
+      "group": "Netherlands",
+      "id": 1930,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 2,
+      "matchupCountSE": 2,
+      "name": "Netherlands - Cup",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Feyenoord",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Ajax",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-05T18:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-05T18:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 34655,
+    "startTime": "2023-04-05T18:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458473622
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568575490,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 61
+      },
+      "featureOrder": 4,
+      "group": "France",
+      "id": 2036,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 11,
+      "matchupCountSE": 11,
+      "name": "France - Ligue 1",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Marseille",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Montpellier HSC",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-31T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-31T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 3137,
+    "startTime": "2023-03-31T19:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458833539
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 731465
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568575487,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 19
+      },
+      "featureOrder": 3,
+      "group": "Italy",
+      "id": 2436,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 21,
+      "matchupCountSE": 21,
+      "name": "Italy - Serie A",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "AC Monza",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Lazio",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-02T13:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-02T13:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 5887,
+    "startTime": "2023-04-02T13:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458789958
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568575449,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 19
+      },
+      "featureOrder": 3,
+      "group": "Italy",
+      "id": 2436,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 21,
+      "matchupCountSE": 21,
+      "name": "Italy - Serie A",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Cremonese",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Atalanta BC",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-02T10:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-02T10:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 5855,
+    "startTime": "2023-04-02T10:30:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458626425
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 725417
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568575485,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 4
+      },
+      "featureOrder": 3,
+      "group": "England",
+      "id": 1980,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 19,
+      "matchupCountSE": 19,
+      "name": "England - Premier League",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Chelsea",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Aston Villa",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-01T16:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-01T16:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 2533,
+    "startTime": "2023-04-01T16:30:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458626425
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": -58090
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568903683,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": -1
+      },
+      "featureOrder": 3,
+      "group": "UEFA",
+      "id": 2627,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 6,
+      "matchupCountSE": 6,
+      "name": "UEFA - Champions League",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Manchester City",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Bayern Munich",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-11T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-11T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 11007,
+    "startTime": "2023-04-11T19:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 42,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 457845158
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 725207
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569145111,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 4
+      },
+      "featureOrder": 3,
+      "group": "England",
+      "id": 1980,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 19,
+      "matchupCountSE": 19,
+      "name": "England - Premier League",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Chelsea",
+        "order": 0,
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Liverpool",
+        "order": 1,
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-04T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-04T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 2513,
+    "startTime": "2023-04-04T19:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458854380
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568903508,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": -1
+      },
+      "featureOrder": 3,
+      "group": "UEFA",
+      "id": 2627,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 6,
+      "matchupCountSE": 6,
+      "name": "UEFA - Champions League",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "AC Milan",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Napoli",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-12T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-12T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 11001,
+    "startTime": "2023-04-12T19:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 49,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458016220
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568768853,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {},
+      "featureOrder": -1,
+      "group": "UEFA",
+      "id": 2642,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 2,
+      "matchupCountSE": 2,
+      "name": "UEFA - Champions League Women",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Lyon",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Chelsea FC Women",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T17:45:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-22T17:45:00Z",
+        "hasMoneyline": false,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 30013,
+    "startTime": "2023-03-22T17:45:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 12,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458774192
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 725421
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568575466,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 4
+      },
+      "featureOrder": 3,
+      "group": "England",
+      "id": 1980,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 19,
+      "matchupCountSE": 19,
+      "name": "England - Premier League",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Newcastle United",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Manchester United",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-02T15:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-02T15:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 2513,
+    "startTime": "2023-04-02T15:30:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458626425
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 732559
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568575488,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 68
+      },
+      "featureOrder": 3,
+      "group": "Spain",
+      "id": 2196,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 21,
+      "matchupCountSE": 21,
+      "name": "Spain - La Liga",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Elche CF",
+        "order": 0,
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Barcelona",
+        "order": 1,
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-01T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-01T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 3733,
+    "startTime": "2023-04-01T19:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458626425
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 732564
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569145089,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 68
+      },
+      "featureOrder": 3,
+      "group": "Spain",
+      "id": 2196,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 21,
+      "matchupCountSE": 21,
+      "name": "Spain - La Liga",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Barcelona",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Girona",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-10T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-10T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 3717,
+    "startTime": "2023-04-10T19:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458725251
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 725934
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568991042,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 15
+      },
+      "featureOrder": -1,
+      "group": "Netherlands",
+      "id": 1928,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 10,
+      "matchupCountSE": 10,
+      "name": "Netherlands - Eredivisie",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Go Ahead Eagles",
+        "order": 0,
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Ajax",
+        "order": 1,
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-02T10:15:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-02T10:15:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 6317,
+    "startTime": "2023-04-02T10:15:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458576118
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 740099
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569100761,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 678
+      },
+      "featureOrder": -1,
+      "group": "Spain",
+      "id": 2468,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 7,
+      "matchupCountSE": 7,
+      "name": "Spain - Primera Division Women",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Deportivo Alaves",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Atletico Madrid",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-26T10:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-26T10:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 23725,
+    "startTime": "2023-03-26T10:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458590631
   },
   {
     "ageLimit": 0,
@@ -247,8 +2012,8 @@
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -318,531 +2083,6 @@
     "ageLimit": 0,
     "altTeaser": false,
     "external": {
-      "touchlineId": 731468
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1569145096,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 19
-      },
-      "featureOrder": 3,
-      "group": "Italy",
-      "id": 2436,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 21,
-      "matchupCountSE": 21,
-      "name": "Italy - Serie A",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Atalanta BC",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Bologna",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-08T16:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-08T16:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 5851,
-    "startTime": "2023-04-08T16:30:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458725251
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 725415
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568575481,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 4
-      },
-      "featureOrder": 3,
-      "group": "England",
-      "id": 1980,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 19,
-      "matchupCountSE": 19,
-      "name": "England - Premier League",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Arsenal",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Leeds United",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-01T14:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-01T14:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 2521,
-    "startTime": "2023-04-01T14:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458626425
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 731466
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568575474,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 19
-      },
-      "featureOrder": 3,
-      "group": "Italy",
-      "id": 2436,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 21,
-      "matchupCountSE": 21,
-      "name": "Italy - Serie A",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Napoli",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "AC Milan",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-02T18:45:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-02T18:45:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 5871,
-    "startTime": "2023-04-02T18:45:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458789958
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 731464
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568575460,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 19
-      },
-      "featureOrder": 3,
-      "group": "Italy",
-      "id": 2436,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 21,
-      "matchupCountSE": 21,
-      "name": "Italy - Serie A",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Juventus",
-        "order": 0,
-        "stats": [
-          {
-            "period": 1
-          },
-          {
-            "period": 0
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Hellas Verona FC",
-        "order": 1,
-        "stats": [
-          {
-            "period": 1
-          },
-          {
-            "period": 0
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-01T18:45:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-01T18:45:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 5867,
-    "startTime": "2023-04-01T18:45:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458789958
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 725420
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568575459,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 4
-      },
-      "featureOrder": 3,
-      "group": "England",
-      "id": 1980,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 19,
-      "matchupCountSE": 19,
-      "name": "England - Premier League",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Manchester City",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Liverpool",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-01T11:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-01T11:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 2505,
-    "startTime": "2023-04-01T11:30:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458626425
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
       "touchlineId": -57564
     },
     "featureOrder": -1,
@@ -877,8 +2117,8 @@
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -947,6 +2187,422 @@
   {
     "ageLimit": 0,
     "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568768741,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {},
+      "featureOrder": -1,
+      "group": "UEFA",
+      "id": 2642,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 2,
+      "matchupCountSE": 2,
+      "name": "UEFA - Champions League Women",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Paris Saint Germain",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "VfL Wolfsburg",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-03-22T20:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-03-22T20:00:00Z",
+        "hasMoneyline": false,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 30009,
+    "startTime": "2023-03-22T20:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 12,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458774192
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 731474
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569145099,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 19
+      },
+      "featureOrder": 3,
+      "group": "Italy",
+      "id": 2436,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 21,
+      "matchupCountSE": 21,
+      "name": "Italy - Serie A",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Salernitana",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "FC Internazionale",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-08T12:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-08T12:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 5855,
+    "startTime": "2023-04-08T12:30:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458725251
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 731463
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568575482,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 19
+      },
+      "featureOrder": 3,
+      "group": "Italy",
+      "id": 2436,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 21,
+      "matchupCountSE": 21,
+      "name": "Italy - Serie A",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "FC Internazionale",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Fiorentina",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-01T16:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-01T16:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 5883,
+    "startTime": "2023-04-01T16:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458789958
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": -57566
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1566824848,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": -33
+      },
+      "featureOrder": -1,
+      "group": "Italy",
+      "id": 2147,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 3,
+      "matchupCountSE": 3,
+      "name": "Italy - Cup",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Juventus",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "FC Internazionale",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-04T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-04T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 5759,
+    "startTime": "2023-04-04T19:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458833694
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
     "external": {
       "touchlineId": 725419
     },
@@ -982,8 +2638,8 @@
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -1087,8 +2743,8 @@
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -1157,116 +2813,15 @@
   {
     "ageLimit": 0,
     "altTeaser": false,
-    "external": {},
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568907004,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": -35
-      },
-      "featureOrder": 3,
-      "group": "UEFA",
-      "id": 2630,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 5,
-      "matchupCountSE": 5,
-      "name": "UEFA - Europa League",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
+    "external": {
+      "touchlineId": 731468
     },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Juventus",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Sporting Lisbon",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-13T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-13T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 11204,
-    "startTime": "2023-04-13T19:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 49,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 457964194
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {},
     "featureOrder": -1,
     "hasAltSpread": true,
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1569145097,
+    "id": 1569145096,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": true,
@@ -1293,8 +2848,8 @@
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -1306,7 +2861,7 @@
     "participants": [
       {
         "alignment": "home",
-        "name": "Lazio",
+        "name": "Atalanta BC",
         "order": 0,
         "stats": [
           {
@@ -1319,7 +2874,7 @@
       },
       {
         "alignment": "away",
-        "name": "Juventus",
+        "name": "Bologna",
         "order": 1,
         "stats": [
           {
@@ -1333,7 +2888,7 @@
     ],
     "periods": [
       {
-        "cutoffAt": "2023-04-08T18:45:00Z",
+        "cutoffAt": "2023-04-08T16:30:00Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -1342,7 +2897,7 @@
         "status": "open"
       },
       {
-        "cutoffAt": "2023-04-08T18:45:00Z",
+        "cutoffAt": "2023-04-08T16:30:00Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -1351,8 +2906,8 @@
         "status": "open"
       }
     ],
-    "rotation": 5859,
-    "startTime": "2023-04-08T18:45:00Z",
+    "rotation": 5851,
+    "startTime": "2023-04-08T16:30:00Z",
     "state": {},
     "status": "pending",
     "totalMarketCount": 10,
@@ -1364,14 +2919,14 @@
     "ageLimit": 0,
     "altTeaser": false,
     "external": {
-      "touchlineId": 725380
+      "touchlineId": 725420
     },
     "featureOrder": -1,
     "hasAltSpread": true,
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1569145116,
+    "id": 1568575459,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": true,
@@ -1398,8 +2953,8 @@
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -1411,7 +2966,7 @@
     "participants": [
       {
         "alignment": "home",
-        "name": "Manchester United",
+        "name": "Manchester City",
         "order": 0,
         "stats": [
           {
@@ -1419,111 +2974,6 @@
           },
           {
             "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Brentford",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-05T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-05T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 2529,
-    "startTime": "2023-04-05T19:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458725251
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 725207
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1569145111,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 4
-      },
-      "featureOrder": 3,
-      "group": "England",
-      "id": 1980,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 19,
-      "matchupCountSE": 19,
-      "name": "England - Premier League",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Chelsea",
-        "order": 0,
-        "stats": [
-          {
-            "period": 1
-          },
-          {
-            "period": 0
           }
         ]
       },
@@ -1533,55 +2983,55 @@
         "order": 1,
         "stats": [
           {
-            "period": 1
+            "period": 0
           },
           {
-            "period": 0
+            "period": 1
           }
         ]
       }
     ],
     "periods": [
       {
-        "cutoffAt": "2023-04-04T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-04T19:00:00Z",
+        "cutoffAt": "2023-04-01T11:30:00Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
         "hasTotal": true,
         "period": 0,
         "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-01T11:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
       }
     ],
-    "rotation": 2513,
-    "startTime": "2023-04-04T19:00:00Z",
+    "rotation": 2505,
+    "startTime": "2023-04-01T11:30:00Z",
     "state": {},
     "status": "pending",
     "totalMarketCount": 10,
     "type": "matchup",
     "units": "Regular",
-    "version": 458725251
+    "version": 458626425
   },
   {
     "ageLimit": 0,
     "altTeaser": false,
     "external": {
-      "touchlineId": 725417
+      "touchlineId": -58008
     },
     "featureOrder": -1,
     "hasAltSpread": true,
     "hasAltTotal": true,
-    "hasLive": true,
+    "hasLive": false,
     "hasMarkets": true,
-    "id": 1568575485,
+    "id": 1568184368,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": true,
@@ -1590,335 +3040,26 @@
     "league": {
       "ageLimit": 0,
       "external": {
-        "touchlineId": 4
+        "touchlineId": -15
       },
-      "featureOrder": 3,
-      "group": "England",
-      "id": 1980,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 19,
-      "matchupCountSE": 19,
-      "name": "England - Premier League",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Chelsea",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Aston Villa",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-01T16:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-01T16:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 2533,
-    "startTime": "2023-04-01T16:30:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458626425
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {},
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568575449,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 19
-      },
-      "featureOrder": 3,
-      "group": "Italy",
-      "id": 2436,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 21,
-      "matchupCountSE": 21,
-      "name": "Italy - Serie A",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Cremonese",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Atalanta BC",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-02T10:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-02T10:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 5855,
-    "startTime": "2023-04-02T10:30:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458626425
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {},
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568907003,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": -35
-      },
-      "featureOrder": 3,
-      "group": "UEFA",
-      "id": 2630,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 5,
-      "matchupCountSE": 5,
-      "name": "UEFA - Europa League",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Manchester United",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Sevilla",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-13T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-13T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 11201,
-    "startTime": "2023-04-13T19:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 44,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 457964194
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {},
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568575453,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 61
-      },
-      "featureOrder": 4,
+      "featureOrder": -1,
       "group": "France",
-      "id": 2036,
-      "isFeatured": true,
+      "id": 2032,
+      "isFeatured": false,
       "isHidden": false,
       "isPromoted": false,
       "isSticky": false,
-      "matchupCount": 11,
-      "matchupCountSE": 11,
-      "name": "France - Ligue 1",
+      "matchupCount": 3,
+      "matchupCountSE": 3,
+      "name": "France - Cup",
       "sport": {
         "featureOrder": 0,
         "id": 29,
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -1930,7 +3071,7 @@
     "participants": [
       {
         "alignment": "home",
-        "name": "Paris Saint Germain",
+        "name": "Nantes",
         "order": 0,
         "stats": [
           {
@@ -1957,7 +3098,7 @@
     ],
     "periods": [
       {
-        "cutoffAt": "2023-04-02T18:45:00Z",
+        "cutoffAt": "2023-04-05T19:10:00Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -1966,7 +3107,7 @@
         "status": "open"
       },
       {
-        "cutoffAt": "2023-04-02T18:45:00Z",
+        "cutoffAt": "2023-04-05T19:10:00Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -1975,844 +3116,14 @@
         "status": "open"
       }
     ],
-    "rotation": 3105,
-    "startTime": "2023-04-02T18:45:00Z",
+    "rotation": 33751,
+    "startTime": "2023-04-05T19:10:00Z",
     "state": {},
     "status": "pending",
     "totalMarketCount": 10,
     "type": "matchup",
     "units": "Regular",
-    "version": 458714044
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": -58134
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1569141878,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": -7
-      },
-      "featureOrder": 3,
-      "group": "England",
-      "id": 1979,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 3,
-      "matchupCountSE": 3,
-      "name": "England - FA Cup",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Brighton and Hove Albion",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Manchester United",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-22T14:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-22T14:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 3951,
-    "startTime": "2023-04-22T14:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458697666
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 732566
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1569145106,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 68
-      },
-      "featureOrder": 3,
-      "group": "Spain",
-      "id": 2196,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 21,
-      "matchupCountSE": 21,
-      "name": "Spain - La Liga",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Real Madrid",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Villarreal CF",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-08T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-08T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 3733,
-    "startTime": "2023-04-08T19:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458725251
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {},
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1569109621,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {},
-      "featureOrder": -1,
-      "group": "Netherlands",
-      "id": 1930,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 2,
-      "matchupCountSE": 2,
-      "name": "Netherlands - Cup",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Feyenoord",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Ajax",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-05T18:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-05T18:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 34655,
-    "startTime": "2023-04-05T18:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458473622
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 740099
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1569100761,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 678
-      },
-      "featureOrder": -1,
-      "group": "Spain",
-      "id": 2468,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 7,
-      "matchupCountSE": 7,
-      "name": "Spain - Primera Division Women",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Deportivo Alaves",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Atletico Madrid",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-03-26T10:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-03-26T10:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 23725,
-    "startTime": "2023-03-26T10:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458590631
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {},
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568903508,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": -1
-      },
-      "featureOrder": 3,
-      "group": "UEFA",
-      "id": 2627,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 6,
-      "matchupCountSE": 6,
-      "name": "UEFA - Champions League",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "AC Milan",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Napoli",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-12T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-12T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 11001,
-    "startTime": "2023-04-12T19:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 49,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458016220
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {},
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1569109619,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {},
-      "featureOrder": -1,
-      "group": "Netherlands",
-      "id": 1930,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 2,
-      "matchupCountSE": 2,
-      "name": "Netherlands - Cup",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Spakenburg",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "PSV Eindhoven",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-04T18:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-04T18:00:00Z",
-        "hasMoneyline": false,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 34651,
-    "startTime": "2023-04-04T18:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 8,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458473250
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": -57566
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1566824848,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": -33
-      },
-      "featureOrder": -1,
-      "group": "Italy",
-      "id": 2147,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 3,
-      "matchupCountSE": 3,
-      "name": "Italy - Cup",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Juventus",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "FC Internazionale",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-04T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-04T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 5759,
-    "startTime": "2023-04-04T19:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 456582093
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 725421
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568575466,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 4
-      },
-      "featureOrder": 3,
-      "group": "England",
-      "id": 1980,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 19,
-      "matchupCountSE": 19,
-      "name": "England - Premier League",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Newcastle United",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Manchester United",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-02T15:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-02T15:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 2513,
-    "startTime": "2023-04-02T15:30:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458626425
+    "version": 456480990
   },
   {
     "ageLimit": 0,
@@ -2852,8 +3163,8 @@
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -2928,7 +3239,7 @@
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1568575490,
+    "id": 1568907004,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": true,
@@ -2937,341 +3248,26 @@
     "league": {
       "ageLimit": 0,
       "external": {
-        "touchlineId": 61
-      },
-      "featureOrder": 4,
-      "group": "France",
-      "id": 2036,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 11,
-      "matchupCountSE": 11,
-      "name": "France - Ligue 1",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Marseille",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Montpellier HSC",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-03-31T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-03-31T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 3137,
-    "startTime": "2023-03-31T19:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458808857
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 725934
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568991042,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 15
-      },
-      "featureOrder": -1,
-      "group": "Netherlands",
-      "id": 1928,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 10,
-      "matchupCountSE": 10,
-      "name": "Netherlands - Eredivisie",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Go Ahead Eagles",
-        "order": 0,
-        "stats": [
-          {
-            "period": 1
-          },
-          {
-            "period": 0
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Ajax",
-        "order": 1,
-        "stats": [
-          {
-            "period": 1
-          },
-          {
-            "period": 0
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-02T10:15:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-02T10:15:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 6317,
-    "startTime": "2023-04-02T10:15:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458576118
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 732559
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568575488,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 68
-      },
-      "featureOrder": 3,
-      "group": "Spain",
-      "id": 2196,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 21,
-      "matchupCountSE": 21,
-      "name": "Spain - La Liga",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Elche CF",
-        "order": 0,
-        "stats": [
-          {
-            "period": 1
-          },
-          {
-            "period": 0
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Barcelona",
-        "order": 1,
-        "stats": [
-          {
-            "period": 1
-          },
-          {
-            "period": 0
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-01T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-01T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 3733,
-    "startTime": "2023-04-01T19:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458626425
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": -58088
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568903684,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": -1
+        "touchlineId": -35
       },
       "featureOrder": 3,
       "group": "UEFA",
-      "id": 2627,
+      "id": 2630,
       "isFeatured": true,
       "isHidden": false,
       "isPromoted": false,
       "isSticky": false,
-      "matchupCount": 6,
-      "matchupCountSE": 6,
-      "name": "UEFA - Champions League",
+      "matchupCount": 5,
+      "matchupCountSE": 5,
+      "name": "UEFA - Europa League",
       "sport": {
         "featureOrder": 0,
         "id": 29,
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -3283,7 +3279,7 @@
     "participants": [
       {
         "alignment": "home",
-        "name": "Real Madrid",
+        "name": "Juventus",
         "order": 0,
         "stats": [
           {
@@ -3296,7 +3292,7 @@
       },
       {
         "alignment": "away",
-        "name": "Chelsea",
+        "name": "Sporting Lisbon",
         "order": 1,
         "stats": [
           {
@@ -3310,7 +3306,7 @@
     ],
     "periods": [
       {
-        "cutoffAt": "2023-04-12T19:00:00Z",
+        "cutoffAt": "2023-04-13T19:00:00Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -3319,7 +3315,7 @@
         "status": "open"
       },
       {
-        "cutoffAt": "2023-04-12T19:00:00Z",
+        "cutoffAt": "2023-04-13T19:00:00Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -3328,964 +3324,27 @@
         "status": "open"
       }
     ],
-    "rotation": 11010,
-    "startTime": "2023-04-12T19:00:00Z",
+    "rotation": 11204,
+    "startTime": "2023-04-13T19:00:00Z",
     "state": {},
     "status": "pending",
-    "totalMarketCount": 48,
+    "totalMarketCount": 49,
     "type": "matchup",
     "units": "Regular",
-    "version": 458014595
+    "version": 457964194
   },
   {
     "ageLimit": 0,
     "altTeaser": false,
     "external": {
-      "touchlineId": 731474
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1569145099,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 19
-      },
-      "featureOrder": 3,
-      "group": "Italy",
-      "id": 2436,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 21,
-      "matchupCountSE": 21,
-      "name": "Italy - Serie A",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Salernitana",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "FC Internazionale",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-08T12:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-08T12:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 5855,
-    "startTime": "2023-04-08T12:30:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458725251
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 726240
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1569145536,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 1
-      },
-      "featureOrder": 4,
-      "group": "Germany",
-      "id": 1842,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 19,
-      "matchupCountSE": 19,
-      "name": "Germany - Bundesliga",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Hoffenheim",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Schalke 04",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-09T17:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-09T17:30:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 3329,
-    "startTime": "2023-04-09T17:30:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458725251
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 731460
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568575454,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 19
-      },
-      "featureOrder": 3,
-      "group": "Italy",
-      "id": 2436,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 21,
-      "matchupCountSE": 21,
-      "name": "Italy - Serie A",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "AS Roma",
-        "order": 0,
-        "stats": [
-          {
-            "period": 1
-          },
-          {
-            "period": 0
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Sampdoria",
-        "order": 1,
-        "stats": [
-          {
-            "period": 1
-          },
-          {
-            "period": 0
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-02T16:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-02T16:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 5863,
-    "startTime": "2023-04-02T16:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458789958
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 731463
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568575482,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 19
-      },
-      "featureOrder": 3,
-      "group": "Italy",
-      "id": 2436,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 21,
-      "matchupCountSE": 21,
-      "name": "Italy - Serie A",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "FC Internazionale",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Fiorentina",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-01T16:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-01T16:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 5883,
-    "startTime": "2023-04-01T16:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458789958
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": -58090
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568903683,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": -1
-      },
-      "featureOrder": 3,
-      "group": "UEFA",
-      "id": 2627,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 6,
-      "matchupCountSE": 6,
-      "name": "UEFA - Champions League",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Manchester City",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Bayern Munich",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-11T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-11T19:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 11007,
-    "startTime": "2023-04-11T19:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 42,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 457845158
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 732558
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568575467,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 68
-      },
-      "featureOrder": 3,
-      "group": "Spain",
-      "id": 2196,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 21,
-      "matchupCountSE": 21,
-      "name": "Spain - La Liga",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Real Madrid",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Real Valladolid CF",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-02T14:15:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-02T14:15:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 3721,
-    "startTime": "2023-04-02T14:15:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458626425
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": 731465
-    },
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568575487,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {
-        "touchlineId": 19
-      },
-      "featureOrder": 3,
-      "group": "Italy",
-      "id": 2436,
-      "isFeatured": true,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 21,
-      "matchupCountSE": 21,
-      "name": "Italy - Serie A",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "AC Monza",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Lazio",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-04-02T13:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-04-02T13:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 5887,
-    "startTime": "2023-04-02T13:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 10,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458789958
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {},
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568768853,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {},
-      "featureOrder": -1,
-      "group": "UEFA",
-      "id": 2642,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 2,
-      "matchupCountSE": 2,
-      "name": "UEFA - Champions League Women",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Lyon",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "Chelsea FC Women",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-03-22T17:45:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-03-22T17:45:00Z",
-        "hasMoneyline": false,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 30013,
-    "startTime": "2023-03-22T17:45:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 12,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458774192
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {},
-    "featureOrder": -1,
-    "hasAltSpread": true,
-    "hasAltTotal": true,
-    "hasLive": true,
-    "hasMarkets": true,
-    "id": 1568768741,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": true,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "external": {},
-      "featureOrder": -1,
-      "group": "UEFA",
-      "id": 2642,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 2,
-      "matchupCountSE": 2,
-      "name": "UEFA - Champions League Women",
-      "sport": {
-        "featureOrder": 0,
-        "id": 29,
-        "isFeatured": true,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
-        "name": "Soccer",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": "unique_matchups",
-    "participants": [
-      {
-        "alignment": "home",
-        "name": "Paris Saint Germain",
-        "order": 0,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      },
-      {
-        "alignment": "away",
-        "name": "VfL Wolfsburg",
-        "order": 1,
-        "stats": [
-          {
-            "period": 0
-          },
-          {
-            "period": 1
-          }
-        ]
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2023-03-22T20:00:00Z",
-        "hasMoneyline": true,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 0,
-        "status": "open"
-      },
-      {
-        "cutoffAt": "2023-03-22T20:00:00Z",
-        "hasMoneyline": false,
-        "hasSpread": true,
-        "hasTeamTotal": true,
-        "hasTotal": true,
-        "period": 1,
-        "status": "open"
-      }
-    ],
-    "rotation": 30009,
-    "startTime": "2023-03-22T20:00:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 12,
-    "type": "matchup",
-    "units": "Regular",
-    "version": 458774192
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "external": {
-      "touchlineId": -58135
+      "touchlineId": -58134
     },
     "featureOrder": -1,
     "hasAltSpread": true,
     "hasAltTotal": true,
     "hasLive": false,
     "hasMarkets": true,
-    "id": 1569141879,
+    "id": 1569141878,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": true,
@@ -4312,8 +3371,8 @@
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -4325,7 +3384,7 @@
     "participants": [
       {
         "alignment": "home",
-        "name": "Manchester City",
+        "name": "Brighton and Hove Albion",
         "order": 0,
         "stats": [
           {
@@ -4338,7 +3397,7 @@
       },
       {
         "alignment": "away",
-        "name": "Sheffield United",
+        "name": "Manchester United",
         "order": 1,
         "stats": [
           {
@@ -4370,14 +3429,14 @@
         "status": "open"
       }
     ],
-    "rotation": 3955,
+    "rotation": 3951,
     "startTime": "2023-04-22T14:00:00Z",
     "state": {},
     "status": "pending",
     "totalMarketCount": 10,
     "type": "matchup",
     "units": "Regular",
-    "version": 458697438
+    "version": 458697666
   },
   {
     "ageLimit": 0,
@@ -4388,7 +3447,7 @@
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1569145101,
+    "id": 1569145097,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": true,
@@ -4397,26 +3456,26 @@
     "league": {
       "ageLimit": 0,
       "external": {
-        "touchlineId": 68
+        "touchlineId": 19
       },
       "featureOrder": 3,
-      "group": "Spain",
-      "id": 2196,
+      "group": "Italy",
+      "id": 2436,
       "isFeatured": true,
       "isHidden": false,
       "isPromoted": false,
       "isSticky": false,
       "matchupCount": 21,
       "matchupCountSE": 21,
-      "name": "Spain - La Liga",
+      "name": "Italy - Serie A",
       "sport": {
         "featureOrder": 0,
         "id": 29,
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -4428,7 +3487,112 @@
     "participants": [
       {
         "alignment": "home",
-        "name": "Rayo Vallecano",
+        "name": "Lazio",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Juventus",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-08T18:45:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-08T18:45:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 5859,
+    "startTime": "2023-04-08T18:45:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458725251
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 731464
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568575460,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 19
+      },
+      "featureOrder": 3,
+      "group": "Italy",
+      "id": 2436,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 21,
+      "matchupCountSE": 21,
+      "name": "Italy - Serie A",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Juventus",
         "order": 0,
         "stats": [
           {
@@ -4441,7 +3605,7 @@
       },
       {
         "alignment": "away",
-        "name": "Atletico Madrid",
+        "name": "Hellas Verona FC",
         "order": 1,
         "stats": [
           {
@@ -4455,7 +3619,7 @@
     ],
     "periods": [
       {
-        "cutoffAt": "2023-04-09T19:00:00Z",
+        "cutoffAt": "2023-04-01T18:45:00Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -4464,7 +3628,7 @@
         "status": "open"
       },
       {
-        "cutoffAt": "2023-04-09T19:00:00Z",
+        "cutoffAt": "2023-04-01T18:45:00Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -4473,14 +3637,14 @@
         "status": "open"
       }
     ],
-    "rotation": 3725,
-    "startTime": "2023-04-09T19:00:00Z",
+    "rotation": 5867,
+    "startTime": "2023-04-01T18:45:00Z",
     "state": {},
     "status": "pending",
     "totalMarketCount": 10,
     "type": "matchup",
     "units": "Regular",
-    "version": 458725251
+    "version": 458789958
   },
   {
     "ageLimit": 0,
@@ -4518,8 +3682,8 @@
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -4589,14 +3753,327 @@
     "ageLimit": 0,
     "altTeaser": false,
     "external": {
-      "touchlineId": 732564
+      "touchlineId": -58088
     },
     "featureOrder": -1,
     "hasAltSpread": true,
     "hasAltTotal": true,
     "hasLive": true,
     "hasMarkets": true,
-    "id": 1569145089,
+    "id": 1568903684,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": -1
+      },
+      "featureOrder": 3,
+      "group": "UEFA",
+      "id": 2627,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 6,
+      "matchupCountSE": 6,
+      "name": "UEFA - Champions League",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Real Madrid",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Chelsea",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-12T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-12T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 11010,
+    "startTime": "2023-04-12T19:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 48,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458014595
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 731477
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569145090,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 19
+      },
+      "featureOrder": 3,
+      "group": "Italy",
+      "id": 2436,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 21,
+      "matchupCountSE": 21,
+      "name": "Italy - Serie A",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Torino",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "AS Roma",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-08T16:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-08T16:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 5863,
+    "startTime": "2023-04-08T16:30:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458725251
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 731460
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568575454,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 19
+      },
+      "featureOrder": 3,
+      "group": "Italy",
+      "id": 2436,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 21,
+      "matchupCountSE": 21,
+      "name": "Italy - Serie A",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "AS Roma",
+        "order": 0,
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Sampdoria",
+        "order": 1,
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-02T16:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-02T16:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 5863,
+    "startTime": "2023-04-02T16:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458789958
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569145101,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": true,
@@ -4623,8 +4100,8 @@
         "isFeatured": true,
         "isHidden": false,
         "isSticky": false,
-        "matchupCount": 525,
-        "matchupCountSE": 465,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
         "name": "Soccer",
         "primaryMarketType": "moneyline"
       }
@@ -4636,7 +4113,112 @@
     "participants": [
       {
         "alignment": "home",
-        "name": "Barcelona",
+        "name": "Rayo Vallecano",
+        "order": 0,
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Atletico Madrid",
+        "order": 1,
+        "stats": [
+          {
+            "period": 1
+          },
+          {
+            "period": 0
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-09T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-09T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 3725,
+    "startTime": "2023-04-09T19:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458725251
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 725415
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568575481,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 4
+      },
+      "featureOrder": 3,
+      "group": "England",
+      "id": 1980,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 19,
+      "matchupCountSE": 19,
+      "name": "England - Premier League",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Arsenal",
         "order": 0,
         "stats": [
           {
@@ -4649,7 +4231,7 @@
       },
       {
         "alignment": "away",
-        "name": "Girona",
+        "name": "Leeds United",
         "order": 1,
         "stats": [
           {
@@ -4663,7 +4245,7 @@
     ],
     "periods": [
       {
-        "cutoffAt": "2023-04-10T19:00:00Z",
+        "cutoffAt": "2023-04-01T14:00:00Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -4672,7 +4254,7 @@
         "status": "open"
       },
       {
-        "cutoffAt": "2023-04-10T19:00:00Z",
+        "cutoffAt": "2023-04-01T14:00:00Z",
         "hasMoneyline": true,
         "hasSpread": true,
         "hasTeamTotal": true,
@@ -4681,13 +4263,431 @@
         "status": "open"
       }
     ],
-    "rotation": 3717,
-    "startTime": "2023-04-10T19:00:00Z",
+    "rotation": 2521,
+    "startTime": "2023-04-01T14:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458626425
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 725380
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569145116,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 4
+      },
+      "featureOrder": 3,
+      "group": "England",
+      "id": 1980,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 19,
+      "matchupCountSE": 19,
+      "name": "England - Premier League",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Manchester United",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Brentford",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-05T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-05T19:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 2529,
+    "startTime": "2023-04-05T19:00:00Z",
     "state": {},
     "status": "pending",
     "totalMarketCount": 10,
     "type": "matchup",
     "units": "Regular",
     "version": 458725251
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {},
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1568575453,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 61
+      },
+      "featureOrder": 4,
+      "group": "France",
+      "id": 2036,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 11,
+      "matchupCountSE": 11,
+      "name": "France - Ligue 1",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Paris Saint Germain",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Lyon",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-02T18:45:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-02T18:45:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 3105,
+    "startTime": "2023-04-02T18:45:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458714044
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": 726240
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": true,
+    "hasMarkets": true,
+    "id": 1569145536,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": 1
+      },
+      "featureOrder": 4,
+      "group": "Germany",
+      "id": 1842,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 19,
+      "matchupCountSE": 19,
+      "name": "Germany - Bundesliga",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Hoffenheim",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Schalke 04",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-09T17:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-09T17:30:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 3329,
+    "startTime": "2023-04-09T17:30:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458725251
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "external": {
+      "touchlineId": -58135
+    },
+    "featureOrder": -1,
+    "hasAltSpread": true,
+    "hasAltTotal": true,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1569141879,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": true,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "external": {
+        "touchlineId": -7
+      },
+      "featureOrder": 3,
+      "group": "England",
+      "id": 1979,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 3,
+      "matchupCountSE": 3,
+      "name": "England - FA Cup",
+      "sport": {
+        "featureOrder": 0,
+        "id": 29,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 602,
+        "matchupCountSE": 446,
+        "name": "Soccer",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": "unique_matchups",
+    "participants": [
+      {
+        "alignment": "home",
+        "name": "Manchester City",
+        "order": 0,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      },
+      {
+        "alignment": "away",
+        "name": "Sheffield United",
+        "order": 1,
+        "stats": [
+          {
+            "period": 0
+          },
+          {
+            "period": 1
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2023-04-22T14:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 0,
+        "status": "open"
+      },
+      {
+        "cutoffAt": "2023-04-22T14:00:00Z",
+        "hasMoneyline": true,
+        "hasSpread": true,
+        "hasTeamTotal": true,
+        "hasTotal": true,
+        "period": 1,
+        "status": "open"
+      }
+    ],
+    "rotation": 3955,
+    "startTime": "2023-04-22T14:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 10,
+    "type": "matchup",
+    "units": "Regular",
+    "version": 458697438
   }
 ]

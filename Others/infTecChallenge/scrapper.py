@@ -48,6 +48,4 @@ def save_info():
 token = get_api_token()
 conn = http.client.HTTPSConnection("guest.api.arcadia.pinnacle.com")
 headers = { 'x-api-key': token }
-
-if __name__ == "__main__":
-    save_info()
+save_info()

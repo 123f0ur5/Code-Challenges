@@ -41,9 +41,7 @@ for games in data.values():
 
         print(f"{tmp_dct['casa']} x {tmp_dct['fora']} registrado")
 
-
 print(write_data)
-
 
 with open("resultado.json", "w") as f:
     f.write(json.dumps(write_data, indent = 3))
